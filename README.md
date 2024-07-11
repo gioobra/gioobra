@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gioobra
-- 🌱 I’m currently learning C language at the uni
+- 🌱 I learned C and Java at the university
 - 💞️ I’m looking to collaborate on any kind of project, I just wanna learn 
 - 📫 How to reach me : gioobrandino@gmail.com
 
