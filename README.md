@@ -37,19 +37,14 @@
 ---
 
 <h3>🚀 Badges/Insígnias</h3>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/giobra81.png" alt="Your Image Badge" />
 <table border="0">
   <tr>
-    <td width="33%" align="center" valign="middle">
-      <a href="https://tryhackme.com/p/seu-usuario-thm">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/giobra81.png" alt="TryHackMe Profile" />
-      </a>
+    <td width="50%" align="center" valign="middle">
+      <img src="Nivelamento.png" alt="Hackers do Bem - Nivelamento" width="200" />
     </td>
-    <td width="33%" align="center" valign="middle">
-      <img src="https://via.placeholder.com/350x180/bd93f9/ffffff?text=Setup+ou+Certificacao+1" alt="Highlight 1" width="300" />
-    </td>
-    <td width="33%" align="center" valign="middle">
-       <img src="https://via.placeholder.com/350x180/ff79c6/ffffff?text=Setup+ou+Certificacao+2" alt="Highlight 2" width="300" />
+    <td width="50%" align="center" valign="middle">
+       <img src="Básico.png" alt="Hackers do Bem - Básico" width="200" />
     </td>
   </tr>
 </table>
