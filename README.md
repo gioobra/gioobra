@@ -3,7 +3,7 @@
   <h3>Information Systems Student @ UTFPR | Aspiring Cybersecurity Specialist</h3>
   
   <p>
-    <a href="www.linkedin.com/in/giovane-de-oliveira-brandino-97951b356">
+    <a href="https://www.linkedin.com/in/giobra">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:gioobrandino@gmail.com">
