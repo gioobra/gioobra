@@ -1,51 +1,29 @@
-<div align="center">
-  <h1>Giovane Brandino</h1>
-  <h3>Information Systems Student @ UTFPR | Aspiring Cybersecurity Specialist</h3>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/giobra">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:gioobrandino@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-  </p>
-</div>
+# Giovane Brandino
 
-<br />
+Backend developer focused on **applied AI**, building LLM systems that are reliable, secure and production-ready.
+Information Systems student at UTFPR · Systems Support Intern at **Vivo (Telefônica Brasil)**.
 
-<h3>👋 About Me / Sobre Mim</h3>
+- At Vivo, I built a **LangGraph agent** that turns an analyst's incident report into a standardized flowchart, cutting resolution docs from 1–2h to under 5 min
+- Currently going deeper into RAG, LLM evaluation and hallucination mitigation
+- Background in security (Google Cybersecurity Certificate, TryHackMe), so I care about how AI systems fail
 
-<p>
-  🇺🇸 <b>Hello!</b> I am an undergraduate student in Information Systems at UTFPR (Federal University of Technology - Paraná). My academic focus is on software development and information security. I am currently building my skills in secure coding, network fundamentals, and system administration.
-</p>
+### Featured projects
 
-<p>
-  🇧🇷 <b>Olá!</b> Estou cursando Sistemas de Informação na UTFPR. Meu foco é em desenvolvimento de software e segurança da informação. Atualmente, estou aprimorando minhas habilidades em programação segura, fundamentos de redes e administração de sistemas.
-</p>
+**[agente-mercado-central](https://github.com/gioobra/agente-mercado-central)**: RAG agent in production
+Hybrid search (ChromaDB + BM25, RRF re-ranking), grounded answers with source citations and a hallucination checker, on Google Gemini.
+Deployed on OCI with Docker Compose, Nginx and SSL · **326 tests**, including adversarial robustness tests.
 
----
+**[ecommerce-rabbitmq](https://github.com/gioobra/ecommerce-rabbitmq)**: event-driven microservices
+5 Python microservices over RabbitMQ using the **saga pattern**: stock or payment failures trigger compensating events. Consumed events are verified with RSA signatures.
 
-<h3>🛠️ Technical Arsenal / Arsenal Técnico</h3>
+### Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) |
-| **Security & Ops** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+**Languages:** Python · Java (Spring Boot) · Shell · C · SQL
+**AI & LLMs:** LangGraph · LangChain · RAG · ChromaDB · Gemini API · Embeddings
+**Infra:** Docker · Azure DevOps (CI/CD) · OCI · Nginx · Linux · RabbitMQ
 
----
+### Certifications
+Oracle Cloud Infrastructure AI Foundations Associate · Google Cybersecurity Certificate
 
-<h3>🚀 Badges/Insígnias</h3>
-<img src="https://tryhackme-badges.s3.amazonaws.com/giobra81.png" alt="Your Image Badge" />
-<table border="0">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="Nivelamento.png" alt="Hackers do Bem - Nivelamento" width="200" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-       <img src="Básico.png" alt="Hackers do Bem - Básico" width="200" />
-    </td>
-  </tr>
-</table>
-  
+### Contact
+[LinkedIn](https://www.linkedin.com/in/giobra) · gioobrandino@gmail.com
